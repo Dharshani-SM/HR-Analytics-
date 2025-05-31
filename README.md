@@ -64,9 +64,7 @@ The dashboard highlights:
 Aspiring Data Analyst   
 www.linkedin.com/in/dharshani-srinivasan-4278ab283 
 
----
 
-## 📫 Contact
+📫 Contact
 
-For any feedback or questions, feel free to connect with me on [LinkedIn](#) or email me at: your.email@example.com
-
+For any feedback or questions, feel free to connect with me on [LinkedIn](www.linkedin.com/in/dharshani-srinivasan-4278ab283) or email me at:smdharshani2014@gmail.com 
